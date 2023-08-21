@@ -4,6 +4,10 @@ body{
     padding: 0;
     font-family: lobster;
 }
+p{
+    font-size: x-large;
+}
+
 .head{
     background-color: transparent;
 }

@@ -5,7 +5,7 @@ const quizdata = [
         b: "An Indian Mathemetician and Astronomer",
         c: "A Chinese Philosopher",
         d: "An Egiptian Architect",
-        correct: "b" // Provide the correct answer option key
+        correct: "b"
     },
     {
         question: "Q2 Aryabhata is best known for his work in which fields?",
@@ -17,10 +17,10 @@ const quizdata = [
     },
     {
         question: "Q3 In which century did Aryabhata live?",
-        a: "3rd Centuary CE",
-        b: "10th Centuary CE",
-        c: "6th Centuary BCE",
-        d: "2nd Centuary BCE",
+        a: "3rd Century CE",
+        b: "10th Century CE",
+        c: "6th Century BCE",
+        d: "2nd Century BCE",
         correct: "a"
     },
     {
